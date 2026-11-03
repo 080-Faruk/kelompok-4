@@ -6,7 +6,7 @@ Repository ini merupakan repository kelompok praktikum Pemrograman Berbasis Plat
 
 - Nama Kelompok: Kelompok-4
 - Nama Proyek: Sistem Informasi Mikrokredensial
-- Jumlah Anggota: 3 Mahasiswa
+- Jumlah Anggota: 4 Mahasiswa
 - Mata Kuliah: Pemrograman Berbasis Platform
 
 ## 2. Anggota Kelompok
@@ -16,10 +16,11 @@ Repository ini merupakan repository kelompok praktikum Pemrograman Berbasis Plat
 | 1 | Mohammad Faruq | 2024520080 | 080-Faruk | BE Lead |
 | 2 | M. Febri Dei Dana Saputra | 2024520089 | 088-febri | Mobile |
 | 3 | Ach Ramadani | 2024520081 | 081_ramaa | DB/QA/Docs |
+| 4 | Riko Adi Setiawan | 2024520024 | 024-Riko | FE Web |
 
 ## 3. Deskripsi Proyek
 
-Sistem Informasi Mikrokredensial merupakan proyek pengembangan aplikasi yang berfokus pada pengelolaan informasi dan layanan mikrokredensial. Aplikasi ini akan dikembangkan secara bertahap sesuai kebutuhan dan ketentuan proyek praktikum.
+Sistem Informasi Mikrokredensial merupakan proyek pengembangan aplikasi yang berfokus pada pengelolaan informasi dan layanan mikrokredensial. Aplikasi akan dikembangkan secara bertahap sesuai kebutuhan dan ketentuan praktikum.
 
 ## 4. Struktur Repository
 
@@ -37,7 +38,8 @@ Kelompok-4/
 ## 5. Pembagian Tugas
 
 - BE Lead: Mengembangkan dan mengelola bagian backend aplikasi.
-- Mobile: Mengembangkan tampilan dan fitur aplikasi mobile.
+- FE Web: Mengembangkan tampilan dan fitur aplikasi berbasis web.
+- Mobile: Mengembangkan tampilan dan fitur aplikasi berbasis mobile.
 - DB/QA/Docs: Mengelola database, melakukan pengujian sistem, dan menyusun dokumentasi.
 
 Pembagian peran dapat berubah sesuai rotasi per fase yang ditentukan dalam praktikum.
