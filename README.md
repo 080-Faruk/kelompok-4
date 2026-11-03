@@ -1,23 +1,27 @@
 # SISTEM INFORMASI MIKROKREDENSIAL
 
-Repository ini merupakan repository kelompok untuk praktikum Pemrograman Berbasis Platform dengan topik proyek Mikrokredensial.
+Repository ini merupakan repository kelompok praktikum Pemrograman Berbasis Platform dengan pilihan proyek Mikrokredensial.
 
-## Identitas Kelompok
+## 1. Identitas Kelompok
 
 - Nama Kelompok: Kelompok-4
 - Nama Proyek: Sistem Informasi Mikrokredensial
-- Jumlah Anggota: 4 Mahasiswa
+- Jumlah Anggota: 3 Mahasiswa
+- Mata Kuliah: Pemrograman Berbasis Platform
 
-## Anggota Kelompok
+## 2. Anggota Kelompok
 
-| No. | Nama Lengkap | NIM | Akun GitHub | Peran |
+| No. | Nama Lengkap | NIM | Akun GitHub | Peran Awal |
 |---|---|---|---|---|
-| 1 | M. Febri Dei Dana Saputra | 2024520089 | 088-febri | Mobile |
-| 2 | ... | ... | ... | BE Lead |
-| 3 | ... | ... | ... | FE Web |
-| 4 | ... | ... | ... | DB/QA/Docs |
+| 1 | Mohammad Faruq | 2024520080 | 080-Faruk | BE Lead |
+| 2 | M. Febri Dei Dana Saputra | 2024520089 | 088-febri | Mobile |
+| 3 | Ach Ramadani | 2024520081 | 081_ramaa | DB/QA/Docs |
 
-## Struktur Repository
+## 3. Deskripsi Proyek
+
+Sistem Informasi Mikrokredensial merupakan proyek pengembangan aplikasi yang berfokus pada pengelolaan informasi dan layanan mikrokredensial. Aplikasi ini akan dikembangkan secara bertahap sesuai kebutuhan dan ketentuan proyek praktikum.
+
+## 4. Struktur Repository
 
 ```text
 Kelompok-4/
@@ -27,16 +31,25 @@ Kelompok-4/
 │   ├── web/
 │   └── mobile/
 └── docs/
+    └── tugas-kelompok-1-kelompok.md
 ```
 
-## Teknologi yang Digunakan
+## 5. Pembagian Tugas
 
-Teknologi yang akan digunakan akan disesuaikan dengan kebutuhan pengembangan aplikasi.
+- BE Lead: Mengembangkan dan mengelola bagian backend aplikasi.
+- Mobile: Mengembangkan tampilan dan fitur aplikasi mobile.
+- DB/QA/Docs: Mengelola database, melakukan pengujian sistem, dan menyusun dokumentasi.
 
-## Cara Menjalankan Aplikasi
+Pembagian peran dapat berubah sesuai rotasi per fase yang ditentukan dalam praktikum.
 
-Petunjuk menjalankan aplikasi akan ditambahkan setelah proses pengembangan selesai.
+## 6. Teknologi yang Digunakan
 
-## Dokumentasi
+Teknologi pengembangan akan ditentukan berdasarkan kebutuhan sistem dan kesepakatan anggota kelompok.
 
-Dokumentasi project, laporan kelompok, dan video pengujian akan disimpan di folder `docs/`.
+## 7. Cara Menjalankan Aplikasi
+
+Petunjuk instalasi dan menjalankan aplikasi akan ditambahkan setelah proses pengembangan selesai.
+
+## 8. Dokumentasi
+
+Dokumentasi proyek, laporan kelompok, dan tautan video pengujian akan disimpan di dalam folder `docs/`.
