@@ -48,8 +48,10 @@ Pembagian tugas dapat disesuaikan dengan kebutuhan dan ketentuan praktikum.
 
 ### 6. Email dan Jadwal Kerja
 
-Email kampus masing-masing anggota dan jadwal kerja kelompok akan dilengkapi setelah disepakati bersama.
-
+- Email kampus: Akan dilengkapi oleh masing-masing anggota.
+- Jadwal kerja kelompok: Setiap hari Sabtu malam Minggu.
+- Waktu pelaksanaan: Menyesuaikan kesepakatan seluruh anggota kelompok.
+- 
 ### 7. Kesepakatan Kelompok
 
 Seluruh anggota kelompok sepakat untuk bekerja sama dalam mengembangkan proyek Sistem Informasi Mikrokredensial selama kegiatan praktikum, mengikuti pembagian tugas, serta melakukan dokumentasi perkembangan proyek secara bertahap.
